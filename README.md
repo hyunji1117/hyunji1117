@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋 Welcome to my GitHub 😃✨ </h1>
+<h1 align="center">Welcome to my GitHub 😃✨ </h1>
+<br />
 
 ###
 
@@ -31,6 +32,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
+<br />
 
 ###
 
