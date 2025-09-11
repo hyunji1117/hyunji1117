@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img width="868" height="852" alt="ddeok-image7-3D-halfhalf-body-right-round" src="https://github.com/user-attachments/assets/fcad445a-cbb9-44ff-8c49-a326d693f61e" />
+  <img height="200" alt="ddeok-image7-3D-halfhalf-body-right-round" src="https://github.com/user-attachments/assets/fcad445a-cbb9-44ff-8c49-a326d693f61e" />
 </div>
 
 ###
