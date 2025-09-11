@@ -87,8 +87,8 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyunji1117&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/hyunji1117"
-      width="1000"
-      height="150"
+      width="600"
+      height="200"
     />
   </a>
 </div>
