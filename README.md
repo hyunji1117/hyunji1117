@@ -4,12 +4,6 @@
 ###
 
 <div align="center">
-  <img height="150" style="border-radius: 15" alt="ddeok-image7-3D-halfhalf-body-right" src="https://github.com/user-attachments/assets/51d49f4f-29e6-46ae-98c7-77b5c20b5e66" />
-</div>
-
-###
-
-<div align="center">
   <a href="mailto:eve0204eve@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -25,6 +19,12 @@
   <a href="https://evelynkim.slack.com/team/U09ELNXBE2G" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="150" style="border-radius: 15px" alt="ddeok-image7-3D-halfhalf-body-right" src="https://github.com/user-attachments/assets/51d49f4f-29e6-46ae-98c7-77b5c20b5e66" />
 </div>
 
 ###
