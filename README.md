@@ -32,7 +32,7 @@
 실시간 협업, 분산 시스템/CRDT, AI Agent 기반 워크플로우 자동화<br /><br />
 
 **[사이드 프로젝트]**<br />
-PWA Greenbox (오프라인 동작, 데이터 동기화 경험)
+PWA Greenbox (Service Worker, localStorage/IndexedDB 기반 로컬 데이터 관리)
 
 </div>
 
