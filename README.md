@@ -24,6 +24,16 @@
 ###
 
 <div align="center">
+시니어 케어 스타트업에서 프론트엔드를 맡고 있는 개발자입니다.<br />
+"화면을 잘 만드는 사람"에서 "비즈니스 맥락 위에서 화면을 설계하는 사람"으로 성장하는 중입니다.
+
+🌱 **관심 분야** — 실시간 협업, 분산 시스템/CRDT, AI Agent 기반 워크플로우 자동화<br />
+🔭 직접 만든 PWA **Greenbox**로 오프라인 동작과 데이터 동기화를 다뤄봤습니다.
+</div>
+
+###
+
+<div align="center">
   <img height="200" alt="ddeok-image7-3D-halfhalf-body-right-round" src="https://github.com/user-attachments/assets/fcad445a-cbb9-44ff-8c49-a326d693f61e" />
 </div>
 
