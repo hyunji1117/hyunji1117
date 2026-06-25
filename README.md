@@ -30,7 +30,7 @@ PWA Greenbox (Service Worker, localStorage/IndexedDB 기반 로컬 데이터 관
 
 **[오픈소스 기여]**<br />
 yorkie-team/codepair (CRDT 기반 협업 에디터)<br />
-.nvmrc와 문서의 Node 지원 정책 간 불일치 발견·수정 ([#603](https://github.com/yorkie-team/codepair/pull/603), merged)
+.nvmrc와 문서의 Node 지원 정책 간 불일치 발견 및 수정 ([#603](https://github.com/yorkie-team/codepair/pull/603), merged)
 
 
 </div>
