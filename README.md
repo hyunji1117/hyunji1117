@@ -34,6 +34,10 @@
 **[사이드 프로젝트]**<br />
 PWA Greenbox (Service Worker, localStorage/IndexedDB 기반 로컬 데이터 관리)
 
+**[오픈소스 기여]**
+yorkie-team/codepair (CRDT 기반 협업 에디터) - .nvmrc와 문서의 Node 지원 정책 간 불일치 발견·수정 ([#603](https://github.com/yorkie-team/codepair/pull/603), merged)
+
+
 </div>
 
 ###
@@ -45,7 +49,7 @@ PWA Greenbox (Service Worker, localStorage/IndexedDB 기반 로컬 데이터 관
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hyunji1117.hyunji1117&" />
 </div>
 <br />
 
