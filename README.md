@@ -1,5 +1,5 @@
 <a href="https://github.com/hyunji1117">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1000&color=83C4D4&vCenter=true&width=600&height=100&lines=>_Hello,+I'm+Hyunji;>_Product-minded+Frontend+Engineer;>_Next.js+/+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1000&color=83C4D4&vCenter=true&width=700&height=100&lines=>_Hello,+I'm+hyunji1117;>_Product-minded+Frontend+Engineer;>_Next.js+·+TypeScript" alt="Typing SVG" />
 </a>
 
 **Product-minded Frontend Engineer** | Next.js, TypeScript | AI 돌봄 플랫폼 | 결제·핀테크 도메인 경험
@@ -85,12 +85,11 @@
 
 ### 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyunji1117&bg_color=00000000&color=5c6575&line=20c997&point=20c997&area=true&hide_border=true&custom_title=hyunji1117%27s%20Contribution%20Graph" alt="hyunji1117's contribution graph" />
-
-<!--
-  Vercel 재배포 후 stats 카드가 정상으로 뜨면 아래 주석을 풀어주세요.
 <div align="center">
-  <img src="https://github-readme-stats-swart-delta-52.vercel.app/api?username=hyunji1117&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-swart-delta-52.vercel.app/api/top-langs?username=hyunji1117&locale=en&langs_count=6&theme=dark" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com/?user=hyunji1117&theme=dark&hide_border=true&background=00000000&ring=20c997&fire=20c997&currStreakNum=20c997" alt="hyunji1117's GitHub streak" />
 </div>
--->
+
+<div align="center">
+  <img src="https://github-readme-stats-swart-delta-52.vercel.app/api?username=hyunji1117&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&icon_color=20c997&locale=en" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-swart-delta-52.vercel.app/api/top-langs?username=hyunji1117&layout=compact&locale=en&langs_count=6&theme=dark&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+</div>
