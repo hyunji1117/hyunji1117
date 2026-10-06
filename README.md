@@ -1,5 +1,5 @@
 <a href="https://github.com/hyunji1117">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1000&color=83C4D4&vCenter=true&width=700&height=100&lines=>_Hello,+I'm+hyunji1117;>_Product-minded+Frontend+Engineer;>_Next.js+·+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1000&color=83C4D4&vCenter=true&width=700&height=100&lines=%3E_Hello%2C+I%27m+hyunji1117;%3E_Product-minded+Frontend+Engineer;%3E_Next.js+%7C+TypeScript" alt="Typing SVG" />
 </a>
 
 **Product-minded Frontend Engineer** | Next.js, TypeScript | AI 돌봄 플랫폼 | 결제·핀테크 도메인 경험
