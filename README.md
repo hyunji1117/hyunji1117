@@ -88,8 +88,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hyunji1117&theme=dark&hide_border=true&background=00000000&ring=20c997&fire=20c997&currStreakNum=20c997" alt="hyunji1117's GitHub streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats-swart-delta-52.vercel.app/api?username=hyunji1117&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&icon_color=20c997&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-swart-delta-52.vercel.app/api/top-langs?username=hyunji1117&layout=compact&locale=en&langs_count=6&theme=dark&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
-</div>
