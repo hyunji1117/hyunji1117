@@ -86,5 +86,5 @@
 ### 📈 Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hyunji1117&theme=dark&hide_border=true&background=00000000&ring=20c997&fire=20c997&currStreakNum=20c997" alt="hyunji1117's GitHub streak" />
+  <img src="./assets/github-streak.svg" alt="hyunji1117's GitHub streak" />
 </div>
