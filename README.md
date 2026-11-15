@@ -67,11 +67,12 @@
 
 ### 📌 Projects
 
-**[Greenbox (우리집 냉장고)](https://github.com/hyunji1117/greenbox)** (2025.09 ~ )
+**[Greenbox (우리집 냉장고)](https://github.com/hyunji1117/greenbox)** (2025.09 ~ , [서비스](https://greenbox-seven.vercel.app))
 
-- 집에 있는 식재료를 기록하고 관리하는 PWA (Next.js · NextAuth Google OAuth · Tailwind CSS)
-- Service Worker와 localStorage/IndexedDB로 오프라인에서도 데이터를 관리
-- 사용자 피드백을 바탕으로 식재료 추가 흐름과 가독성을 반복 개선
+- 가족이 각자 계정으로 같은 냉장고를 보고, 곧 먹어야 할 식재료를 알림과 레시피로 알려 주는 PWA. 기획, 개발, 운영 단독 (Next.js 15 App Router, React 19, TanStack Query, zod, Postgres, Auth.js)
+- 첫 화면을 Streaming SSR로 바꿔 첫 데이터 표시 5,066 → 2,075ms (측정 환경: CPU 4x, Slow 4G, 5회 중앙값)
+- 가족 사용 관찰에서 저장 실패처럼 보인 반응을 DB 기록과 대조해 위치 안내 문제로 좁히고, 입력 단계를 늘리기보다 완료 안내부터 바꿈
+- 선반 보기 베타는 검증 기준을 먼저 정하고 단계 공개 중 (가족 비교 전). 결정 기록은 [docs/decisions](https://github.com/hyunji1117/greenbox/tree/main/docs/decisions)
 
 <br />
 
